@@ -1,0 +1,2 @@
+# emojis
+Emojis do Mastodon
