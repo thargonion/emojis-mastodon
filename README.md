@@ -2,7 +2,7 @@
 
 ## Emojis customizados criados para a rede social _Mastodon_
 
-Esse repositório contém emojis criados por mim para algumas instâncias brasileiras do **Mastodon**. O [Mastodon][mastodon] é uma rede de _microblogging_ descentralizada que permite que seus usuários possam criar emojis próprios e colocarem em suas instâncias. Os emojis já estão no formato e tamanho adequado para serem utilizados na versão 4.0 do Mastodon (máximo de 250 Kb) e muitos deles representam particularidades específicas das instâncias brasileiras ou regionalismos. Alguns estão no formato animado (.apng) e têm a letra "A" anexada ao final do nome como _lagartear-A.png_.
+Esse repositório contém emojis criados para algumas instâncias brasileiras do **Mastodon**. O [Mastodon][mastodon] é uma rede de _microblogging_ descentralizada que permite que seus usuários possam criar emojis próprios e colocarem em suas instâncias. Os emojis já estão no formato e tamanho adequado para serem utilizados na versão 4.0 do Mastodon (máximo de 250 Kb) e muitos deles representam particularidades específicas das instâncias brasileiras ou regionalismos. Alguns estão no formato animado (.apng) e têm a letra "A" anexada ao final do nome como _lagartear-A.png_.
 
 Não posso garantir que a visualização funcione corretamente em todas as instâncias pois há uma diversidade de temas e tipos de telas. Porém, costumo testar os emojis com as seguintes cores de plano de fundo:
 
@@ -39,7 +39,7 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
         <tr>
           <th bgcolor="f1f1f1">1</th>
           <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/blob_cangaço.png"><img height="20" src="./emojis/Cuscuz.in/blob_cangaço.png"></a></td>
-          <td bgcolor="f1f1f1">Emoji com chapeú cangaceiro</td>
+          <td bgcolor="f1f1f1">Emoji com chapéu de cangaceiro</td>
           <td bgcolor="f1f1f1" align="center">Não</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
@@ -68,4 +68,12 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
         </tr>
+        <tr>
+          <th bgcolor="f1f1f1">4</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Comida/mandioca.png"><img height="20" src="./emojis/Comida/mandioca.png"></a></td>
+          <td bgcolor="f1f1f1">Uma mandioca</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Comida</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/abacaxi-queer">Abacaxi</a></td>
+        </tr>      
   </table>
