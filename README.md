@@ -1,7 +1,7 @@
 # emojis-mastodon
 ## Emojis customizados criados para a rede social _Mastodon_
 
-Esse repositório contém emojis criados por mim para algumas instâncias brasileiras do **Mastodon**. O [Mastodon][mastodon] é uma rede de _microblogging_ descentralizada que permite que seus usuários possam criar emojis próprios e colocarem em suas instâncias. Os emojis já estão no formato e tamanho adequado para serem utilizados na versão 4.0 do Mastodon (máximo de 250 Kb)e muitos deles representam particularidades específicas das instâncias brasileiras ou regionalismos. Alguns estão no formato animado (.apng) e têm a letra "A" anexada ao final do nome como _lagartear-A.png_.
+Esse repositório contém emojis criados por mim para algumas instâncias brasileiras do **Mastodon**. O [Mastodon][mastodon] é uma rede de _microblogging_ descentralizada que permite que seus usuários possam criar emojis próprios e colocarem em suas instâncias. Os emojis já estão no formato e tamanho adequado para serem utilizados na versão 4.0 do Mastodon (máximo de 250 Kb) e muitos deles representam particularidades específicas das instâncias brasileiras ou regionalismos. Alguns estão no formato animado (.apng) e têm a letra "A" anexada ao final do nome como _lagartear-A.png_.
 
 Não posso garantir que a visualização funcione corretamente em todas as instâncias pois há uma diversidade de temas e tipos de telas. Porém, costumo testar os emojis com as seguintes cores de plano de fundo:
 
@@ -11,5 +11,9 @@ Não posso garantir que a visualização funcione corretamente em todas as inst�
 
 Caso deseje testar um emoji com essas cores há um modelo SVG com todos esses planos de fundo no repositório também.
 
+Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoji][openmoji], projeto de ícones e emojis open-source com licença [CC BY-SA 4.0][CC0].
+
 [//]: # (Links utilizados no texto)
 [mastodon]: <https://joinmastodon.org/>
+[openmoji]: <https://openmoji.org/>
+[CC0]:<https://creativecommons.org/licenses/by-sa/4.0/#>
