@@ -68,8 +68,16 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
         </tr>
+		<tr>
+          <th bgcolor="f1f1f1">5</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/guaiamum.png"><img height="20" src="./emojis/Cuscuz.in/guaiamum.png"></a></td>
+          <td bgcolor="f1f1f1">Um guaiamum (caranguejo) com sombrinha e roupas do frevo.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
         <tr>
-          <th bgcolor="f1f1f1">4</th>
+          <th bgcolor="f1f1f1">6</th>
           <td bgcolor="f1f1f1" align="center"><a href="./emojis/Comida/mandioca.png"><img height="20" src="./emojis/Comida/mandioca.png"></a></td>
           <td bgcolor="f1f1f1">Uma mandioca</td>
           <td bgcolor="f1f1f1" align="center">Não</td>
