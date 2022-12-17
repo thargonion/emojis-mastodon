@@ -270,7 +270,7 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
         </tr>
 		<tr>
           <th bgcolor="f1f1f1">28</th>
-          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/corinthias.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/corinthias.png"></a></td>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/corinthians.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/corinthians.png"></a></td>
           <td bgcolor="f1f1f1">Brasão do Corinthias.</td>
           <td bgcolor="f1f1f1" align="center">Não</td>
           <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
