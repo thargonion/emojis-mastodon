@@ -46,7 +46,7 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
         </tr>
         <tr>
           <th bgcolor="f1f1f1">2</th>
-          <td bgcolor="f1f1f1" align="center"><a href=""><img height="20" src="./emojis/Cuscuz.in/sanfoneiro.png"></a></td>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/sanfoneiro.png"><img height="20" src="./emojis/Cuscuz.in/sanfoneiro.png"></a></td>
           <td bgcolor="f1f1f1">Emoji tocando sanfona</td>
           <td bgcolor="f1f1f1" align="center">Não</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
