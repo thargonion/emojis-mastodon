@@ -142,7 +142,7 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
         </tr>
 		<tr>
           <th bgcolor="f1f1f1">13</th>
-          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/egua.png"><img height="20" src="./emojis/Expressoes/egua.png"></a></td>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/égua.png"><img height="20" src="./emojis/Expressoes/égua.png"></a></td>
           <td bgcolor="f1f1f1">Égua!</td>
           <td bgcolor="f1f1f1" align="center">Não</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
@@ -188,5 +188,108 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
           <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
         </tr>
-		
+		<tr>
+          <th bgcolor="f1f1f1">18</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/fire_bending.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/fire_bending.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo da dominação de fogo do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">19</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/fire_nation.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/fire_nation.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo da Nação do Fogo do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">20</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/water_bending.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/water_bending.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo da dominação de água do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">21</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/water_tribe.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/water_tribe.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo da Tribo da Água do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">22</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/nba_love.png"><img height="20" src="./emojis/Esportes/nba_love.png"></a></td>
+          <td bgcolor="f1f1f1">Um emoji de um coração dividido ao meio pelas cores azul e vermelho com um jogador de basquete no centro.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: basquete</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">23</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/CBFcomEstrelas.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/CBFcomEstrelas.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão da Confederação Brasileira de Futebol.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">24</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/CBFsemEstrelas.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/CBFsemEstrelas.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão da Confederação Brasileira de Futebol sem as 5 estrelas.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">25</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/barcelona.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/barcelona.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão do Barcelona.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">26</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/botafogo.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/botafogo.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão do Botafogo.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">27</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/chelsea.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/chelsea.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão do Chelsea.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">28</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/corinthias.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/corinthias.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão do Corinthias.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">29</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/cruzeiro.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/cruzeiro.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão do Cruzeiro.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">30</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Esportes/Times%20de%20futebol/Gerais/flamengo.png"><img height="20" src="./emojis/Esportes/Times%20de%20futebol/Gerais/flamengo.png"></a></td>
+          <td bgcolor="f1f1f1">Brasão do Flamengo.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Esportes: times de futebol</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
   </table>
