@@ -104,8 +104,89 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
           <th bgcolor="f1f1f1">9</th>
           <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/umbuzeiro.png"><img height="20" src="./emojis/Cuscuz.in/umbuzeiro.png"></a></td>
           <td bgcolor="f1f1f1">Um umbuzeiro crescendo entre rochas.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>	
+	<tr>
+          <th bgcolor="f1f1f1">10</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/eita.png"><img height="20" src="./emojis/Expressoes/eita.png"></a></td>
+          <td bgcolor="f1f1f1">Um eita!</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>	
+	<tr>
+          <th bgcolor="f1f1f1">11</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/lagartear-A.png"><img height="20" src="./emojis/Expressoes/lagartear-A.png"></a></td>
+          <td bgcolor="f1f1f1">Lagartear. Um lagarto descansando sob o sol e mudando de cor.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>	
+	<tr>
+          <th bgcolor="f1f1f1">12</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/oxe.png"><img height="20" src="./emojis/Expressoes/oxe.png"></a></td>
+          <td bgcolor="f1f1f1">Oxe!</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>	
+		<tr>
+          <th bgcolor="f1f1f1">13</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/ventiladorDeFogo-A.png"><img height="20" src="./emojis/Expressoes/ventiladorDeFogo-A.png"></a></td>
+          <td bgcolor="f1f1f1">Um ventilador que ao invés de refrescar com vento lança uma brisa de fogo. </td>
           <td bgcolor="f1f1f1" align="center">Sim</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
-        </tr>		
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">13</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/egua.png"><img height="20" src="./emojis/Expressoes/egua.png"></a></td>
+          <td bgcolor="f1f1f1">Égua!</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">13</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Irm%C3%A3o%20do%20Jorel/vovó_juju.png"><img height="20" src="./emojis/Desenhos_animados/Irm%C3%A3o%20do%20Jorel/vovó_juju.png"></a></td>
+          <td bgcolor="f1f1f1">A Vovó Juju do desenho Irmão de Jorel.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/abacaxi-queer">Abacaxi</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">14</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/air_bending.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/air_bending.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo de dominação de ar do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">15</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/air_nomads.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/air_nomads.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo dos Nômades do Ar do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">16</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/earth_bending.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/earth_bending.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo da dominação de terra do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">17</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/earth_kingdom.png"><img height="20" src="./emojis/Desenhos_animados/Avatar%20a%20lenda%20de%20Aang/earth_kingdom.png"></a></td>
+          <td bgcolor="f1f1f1">Símbolo do Reino da Terra do desenho Avatar: A Lenda de Aang</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Desenhos animados</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		
   </table>
