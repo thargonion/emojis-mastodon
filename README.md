@@ -99,5 +99,13 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
           <td bgcolor="f1f1f1" align="center">Sim</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>	
+	<tr>
+          <th bgcolor="f1f1f1">9</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/umbuzeiro.png"><img height="20" src="./emojis/Cuscuz.in/umbuzeiro.png"></a></td>
+          <td bgcolor="f1f1f1">Um umbuzeiro crescendo entre rochas.</td>
+          <td bgcolor="f1f1f1" align="center">Sim</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
         </tr>		
   </table>
