@@ -76,6 +76,22 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
         </tr>
+		<tr>
+          <th bgcolor="f1f1f1">5</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/florDeMandacaru.png"><img height="20" src="./emojis/Cuscuz.in/florDeMandacaru.png"></a></td>
+          <td bgcolor="f1f1f1">Uma flor de mandacaru.</td>
+          <td bgcolor="f1f1f1" align="center">Não</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
+		<tr>
+          <th bgcolor="f1f1f1">5</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/florDeMandacaru-A.png"><img height="20" src="./emojis/Cuscuz.in/florDeMandacaru-A.png"></a></td>
+          <td bgcolor="f1f1f1">Uma flor de mandacaru crescendo e girando.</td>
+          <td bgcolor="f1f1f1" align="center">Sim</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>
         <tr>
           <th bgcolor="f1f1f1">6</th>
           <td bgcolor="f1f1f1" align="center"><a href="./emojis/Comida/mandioca.png"><img height="20" src="./emojis/Comida/mandioca.png"></a></td>
