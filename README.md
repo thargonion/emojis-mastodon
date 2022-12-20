@@ -131,7 +131,15 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
           <td bgcolor="f1f1f1" align="center">Não</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
           <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
-        </tr>	
+        </tr>
+	<tr>
+          <th bgcolor="f1f1f1">10</th>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/carrista-A.png"><img height="20" src="./emojis/Expressoes/carrista-A.png"></a></td>
+          <td bgcolor="f1f1f1">Um carro pegando fogo! Que tragédia!</td>
+          <td bgcolor="f1f1f1" align="center">Sim</td>
+          <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
+          <td bgcolor="f1f1f1" align="center"><a href="https://github.com/thargonion">Pedro</a></td>
+        </tr>		
 	<tr>
           <th bgcolor="f1f1f1">11</th>
           <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/lagartear-A.png"><img height="20" src="./emojis/Expressoes/lagartear-A.png"></a></td>
