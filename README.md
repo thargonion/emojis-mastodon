@@ -102,7 +102,7 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
         </tr> 
 		<tr>
           <th bgcolor="f1f1f1">7</th>
-          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/220.png"><img height="20" src="./emojis/Cuscuz.in/220.png"></a></td>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressoes/220.png"><img height="20" src="./emojis/Cuscuz.in/220.png"></a></td>
           <td bgcolor="f1f1f1">Ligado nos 220.</td>
           <td bgcolor="f1f1f1" align="center">Não</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
@@ -110,7 +110,7 @@ Os emojis que não foram criados "do zero" são adaptações do projeto [OpenMoj
         </tr>
 		<tr>
           <th bgcolor="f1f1f1">8</th>
-          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Cuscuz.in/220-A.png"><img height="20" src="./emojis/Cuscuz.in/220-A.png"></a></td>
+          <td bgcolor="f1f1f1" align="center"><a href="./emojis/Expressões/220-A.png"><img height="20" src="./emojis/Cuscuz.in/220-A.png"></a></td>
           <td bgcolor="f1f1f1">Ligado nos 220 com raios.</td>
           <td bgcolor="f1f1f1" align="center">Sim</td>
           <td bgcolor="f1f1f1" align="center">Cuscuz.in</td>
